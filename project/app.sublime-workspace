@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"gameon"
+			],
+			[
+				"curr",
+				"current-0"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"a",
+				"addEventListener"
+			],
+			[
+				"AC",
+				"active"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"current",
+				"currentscore"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pading",
+				"padding-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"bck",
+				"background-color\tproperty"
+			],
+			[
+				"m",
+				"max-height\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"b",
+				"background-repeat\tproperty"
+			],
+			[
+				"cl",
+				"col1lowernews"
+			],
+			[
+				"col1",
+				"col1lowerbox"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgro",
+				"background-position\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"fr",
+				"frameset\tTag"
+			],
+			[
+				"ot",
+				"option\tTag"
+			],
+			[
+				"data",
+				"datalist\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"conten",
+				"content\tAttr"
+			],
+			[
+				"border",
+				"border-collapse\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/uchia-itachi/Desktop/4-DOM-Pig-Game/index.html",
+		"/home/uchia-itachi/Desktop/4-DOM-Pig-Game/style.css",
+		"/home/uchia-itachi/Desktop/4-DOM-Pig-Game/app.js",
+		"/home/uchia-itachi/project/style2.css",
+		"/home/uchia-itachi/project/style.css",
+		"/home/uchia-itachi/project/index.html",
+		"/home/uchia-itachi/Desktop/javascript practise/pig game/index.html",
+		"/home/uchia-itachi/Desktop/javascript practise/pig game/style.css",
+		"/home/uchia-itachi/Desktop/project/style2.css",
+		"/home/uchia-itachi/Desktop/project/style.css",
+		"/home/uchia-itachi/Desktop/project/index.html",
+		"/home/uchia-itachi/Desktop/project/lyft.html",
+		"/home/uchia-itachi/Desktop/project/footer.css",
+		"/home/uchia-itachi/Desktop/javascript practise/1.html",
+		"/home/uchia-itachi/Desktop/as.html",
+		"/home/uchia-itachi/Desktop/asd.html",
+		"/home/uchia-itachi/sunilz/CSS/HTML/Project/HomePage.html",
+		"/home/uchia-itachi/Desktop/frame1.html",
+		"/home/uchia-itachi/Desktop/untitled.html",
+		"/home/uchia-itachi/Desktop/frame.html",
+		"/home/uchia-itachi/Desktop/frame2.html",
+		"/home/uchia-itachi/Desktop/practise.html",
+		"/home/uchia-itachi/sunilz/CSS/HTML/Project/llinked pages/ABOUT_US.HTML",
+		"/home/uchia-itachi/Desktop/frame3.html",
+		"/home/uchia-itachi/Desktop/s1.html",
+		"/home/uchia-itachi/Desktop/s2.html",
+		"/home/uchia-itachi/Desktop/chirkara.html",
+		"/home/uchia-itachi/Desktop/setb.html",
+		"/home/uchia-itachi/Desktop/table.html",
+		"/home/uchia-itachi/Desktop/Untitled Folder/table.html",
+		"/home/uchia-itachi/Desktop/iframe.html",
+		"/home/uchia-itachi/Desktop/Untitled Folder/frame.html",
+		"/home/uchia-itachi/Desktop/Untitled Folder/frame1.html",
+		"/home/uchia-itachi/sunilz/CSS/HTML/Project/large.css",
+		"/home/uchia-itachi/Desktop/dasd.htm",
+		"/home/uchia-itachi/sunilz/CSS/HTML/Project/llinked pages/appllenewupdate.html",
+		"/home/uchia-itachi/sunilz/CSS/HTML/Project/home2.html",
+		"/home/uchia-itachi/sunilz/untitled.html",
+		"/home/uchia-itachi/sunilz/CSS/HTML/Project/llinked pages/a.txt",
+		"/home/uchia-itachi/sunilz/examples.desktop"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

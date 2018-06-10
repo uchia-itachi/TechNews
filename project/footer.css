@@ -1,0 +1,64 @@
+.footer{
+    height: 300px;
+    width: 100%;
+    border:1px,1px,1px,1px;
+    border-color: black;
+}
+
+.foot{
+	height: 200px;
+	background-image: url(back.jpg);
+	padding-left: 80px;
+	padding-right: : 80px;
+	color: white;
+}
+.fc{
+	width: 33.33%;
+	float: left;
+}
+.fc1{
+  width: 33.33%;
+ float: left;
+}
+.fa {
+ padding-top: 7px;
+  font-size: 25px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+    float: left;
+    display: block;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.fa:hover {
+    transform: scale(1.3);
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  /*border-color: white;*/
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}

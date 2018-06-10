@@ -1,0 +1,369 @@
+
+* {
+    box-sizing: border-box;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.row{
+	width: auto;
+	//margin: auto;
+    border-top: 1px solid white;
+    //background-color: black;
+    height: 500px;
+}
+
+
+
+.col1{
+	float: left;
+    width: 70%;
+    height: 500px;
+    background-size: 850px 500px;
+    position:relative;
+    border-bottom: 1px solid white;
+
+}
+
+
+.col2{
+	float: right;
+    width: 29.9%;
+    height: 500px;
+    //background-color: gray;
+}
+
+
+.col2a{
+    
+    width: auto;
+    height: 33.3%;
+    background-image: url(ddos.jpg);
+    background-size: cover;
+    border-bottom: 1px solid white;
+    position: relative;
+}
+
+
+.col2b{
+    width: auto;
+    height: 33.3%;
+    background-image: url(techies.webp);
+    background-size: cover;
+    border-bottom: 1px solid white;
+    position: relative;
+
+}
+
+.col2c{
+    width: auto;
+    height: 33.3%;
+    background-image: url(bitcoin.jpg);
+    background-size: cover;
+    border-bottom: 1px solid white;
+    position: relative;
+
+}
+
+
+}
+body{
+    margin: 0;
+
+}
+
+.content {
+    position: absolute;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); 
+    color:white;
+    width: 100%;
+    padding: 20px;
+}
+
+.contenta {
+     position: absolute;
+    bottom: 0;
+    right:0;
+    background: rgba(0, 0, 0, 0.5); 
+    color:white;
+    width: 100%;
+    padding: 20px;
+}
+
+.col2a:hover{
+    transform: scale(1.01);
+}
+.col2b:hover{
+    transform: scale(1.01);
+}
+.col2c:hover{
+    transform: scale(1.01);
+}
+/*.col1:hover{
+    transform: scale(1.01);
+
+}*/
+
+.content:hover {
+    background-color:  blue;
+    opacity: 0.8;
+}
+
+
+.contenta:hover {
+    background-color:  blue;
+    opacity: 0.8;
+    
+
+}
+#myVideo {
+    position: absolute;
+    
+    height: 100%;
+    width:100%;
+}
+.rowlower{
+    width: auto;
+    /*margin: auto;*/
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    background-color: white;
+    height: 1500px;
+    border-color: gray;
+}
+.col1lower{
+    float: left;
+    width: 70%;
+    height: 1500px;
+    position:relative;
+    border-left:1px solid white;
+    border-right: 1px solid gray;
+
+}
+.col2lower{
+    float: right;
+    width: 30%;
+    height: 1500px;
+    top: 0;
+    /*position:relative;*/
+}
+/*.col1-1lower{
+    float: left;
+    width: 70%;
+    height: 1500px;
+    position:relative;
+}
+.col1-2lower{
+    float: right;
+    width: 30%;
+    height: 1500px;
+    position:relative;
+    border-right: 1px solid white;
+    background-color: white;
+}*/
+
+.col1lowerbox{
+    
+    width: auto;
+    height: 25%;
+   background-image: url(bill.jpg);
+    background-size: cover;
+      border-top: : 20px solid white;
+    border-bottom: 20px solid white;
+    border-left: 20px solid white;
+    border-right: 20px solid white;
+  
+    position: relative;
+}
+
+.contentl {
+    position: absolute;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); 
+    color:white;
+    width: 100%;
+
+    padding: 20px;
+}
+.col1lowerbox:hover{
+    transform: scale(1.01);
+}
+.contentl:hover {
+    background-color:  red;
+    opacity: 0.8;
+}
+
+.col1lowernews{
+    
+    width: auto;
+    height: 13%;
+    background-size: cover;
+  
+    position: relative;
+}
+.col1lowernews:hover{
+    transform: scale(1.01);
+}
+.col2lowernews{
+    
+    width: auto;
+    height: 13%;
+    background:#8e6161; 
+    color: white;
+}
+.leftside{
+    float: left;
+    //background-image: url(self.jpg);
+    width: 40%;
+    height: 100%;
+    background-size: 100%;
+    //background-color: red;
+   // background-repeat: no-repeat;
+}
+.rightside{
+    float:right;
+    width:60%;
+    height: 100%;
+    padding: 5px;
+
+}
+.rightside a{
+    color: black;
+    text-decoration: none;
+    font-size: 25;
+}
+.cross1{
+    background-color: black;
+     opacity: 0.8;
+     color: white;
+      left:317px; 
+      top: 0px;
+       position:absolute;
+}
+.cross2{
+    background-color: black;
+     opacity: 0.8;
+     color: white;
+      left:342px; 
+      top: 0px;
+       position:absolute;
+}
+/*left:1242px; 
+      top: 1871px;*/
+
+.hiddenrow{
+    height: 200px;
+    width: 100%;
+    position: relative;
+    display: none;
+    border-color: black;
+    border: 1px 1px 1px 1px;
+}
+
+
+
+
+
+
+#loginform{
+
+  margin-top:40px;
+  margin-left:auto;
+  margin-right:auto;
+  width:270px;
+}
+  
+.input{
+  width:270px;
+    padding:15px 25px;
+  background: #f5f5f5;
+  border:none;
+  border-radius: 5px;
+  color: #333;
+  font-size: 14px;
+  margin-top:15px;
+}
+
+.loginbutton{
+  background-color:#ffdd00;
+  border-radius:5px/5px;
+  color:#333;
+  
+  font-size:18px;
+  font-weight:bold;
+  width:270px;
+  text-align:center;
+  line-height:50px;
+  text-decoration:none;
+  height:50px;
+  margin-top:20px;
+  margin-bottom:20px;
+  border:none;
+  outline:0;
+}
+
+.loginbutton:active {
+  position:relative;
+  top:1px;
+}
+
+.loginbutton:hover{
+  background-color:#e5bf05;
+}
+
+.login {
+  display: block;
+  margin:50px auto;
+    width: 300px;
+    height: 350px;
+    overflow: hidden;
+    background: #1e1e1e;
+    border-radius: 6px;
+   
+    box-shadow: 0px 0px 50px rgba(0,0,0,.8);
+}
+.login .heads {
+    width: 298px;
+    height: 14px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-size: 14px;
+    text-align: center;
+    color: #bfbfbf;
+    font-weight: bold;
+    background: #121212;
+    border: #2d2d2d solid 1px;
+    margin-bottom: 30px;
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    font-family: Arial;
+}
+.login .olvido {
+    width: 240px;
+    height: auto;
+    overflow: hidden;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 10px;
+    text-align: center;
+}
+.login .olvido .col {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+.login .olvido .col a {
+    color: #fff;
+    text-decoration: none;
+    font: 12px Arial;
+}
